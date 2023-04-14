@@ -1,0 +1,26 @@
+nav{
+    height: 100px;
+    
+}
+.container{
+    position: relative; left: 80px;
+    width: 1000px;
+}
+section{
+    position: relative; top: 50px;
+}
+#hire{
+    background-color: #0B1C2C;
+    color: #D4A81E;
+}
+#enrol{
+    background-color: #D4A81E;
+    color: #0B1C2C;
+}
+
+#line{
+    background-color: #D4A81E;
+    width: 50px;
+    height: 5px;
+    position: relative; left:489px; top: -30px;
+}
